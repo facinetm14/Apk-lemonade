@@ -25,3 +25,7 @@ Tips
 
 - Use the provided tests to ensure your app is running as expected
 - DO NOT ALTER THE PROVIDED TESTS
+
+<h3> activities </h3>
+
+<img src="https://github.com/facinetm14/Apk-lemonade/blob/master/Screenshot_20220914-204108_Lemonade%5B1%5D.jpg" widh="200"><img src="https://github.com/facinetm14/Apk-lemonade/blob/master/Screenshot_20220914-204110_Lemonade%5B1%5D.jpg" widh="200"><img src="https://github.com/facinetm14/Apk-lemonade/blob/master/Screenshot_20220914-204115_Lemonade%5B1%5D.jpg" widh="200"><img src="https://github.com/facinetm14/Apk-lemonade/blob/master/Screenshot_20220914-204117_Lemonade%5B1%5D.jpg" widh="200">
