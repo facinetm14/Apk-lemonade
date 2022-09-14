@@ -28,4 +28,7 @@ Tips
 
 <h3> activities </h3>
 
-<img src="https://github.com/facinetm14/Apk-lemonade/blob/master/Screenshot_20220914-204108_Lemonade%5B1%5D.jpg" width="200"><img src="https://github.com/facinetm14/Apk-lemonade/blob/master/Screenshot_20220914-204110_Lemonade%5B1%5D.jpg" width="200"><img src="https://github.com/facinetm14/Apk-lemonade/blob/master/Screenshot_20220914-204115_Lemonade%5B1%5D.jpg" width="200"><img src="https://github.com/facinetm14/Apk-lemonade/blob/master/Screenshot_20220914-204117_Lemonade%5B1%5D.jpg" width="200">
+<img src="https://github.com/facinetm14/Apk-lemonade/blob/master/Screenshot_20220914-204108_Lemonade%5B1%5D.jpg" width="200" margin-right="10">
+<img src="https://github.com/facinetm14/Apk-lemonade/blob/master/Screenshot_20220914-204110_Lemonade%5B1%5D.jpg" width="200" margin-right="10">
+<img src="https://github.com/facinetm14/Apk-lemonade/blob/master/Screenshot_20220914-204115_Lemonade%5B1%5D.jpg" width="200" margin-right="10">
+<img src="https://github.com/facinetm14/Apk-lemonade/blob/master/Screenshot_20220914-204117_Lemonade%5B1%5D.jpg" width="200">
